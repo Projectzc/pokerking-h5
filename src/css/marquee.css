@@ -1,0 +1,12 @@
+#marquee {
+    position:relative;
+    overflow:hidden;
+}
+#marquee dl, #marquee dt,#marquee dd {
+    float:left;
+    margin:0;
+    padding:0;
+}
+#marquee dl{
+    width:1000%;
+}

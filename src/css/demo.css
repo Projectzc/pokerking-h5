@@ -1,0 +1,49 @@
+
+.body {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.headNav {
+    background-color: yellow;
+    height: 15%;
+}
+.btn_P{
+    height: 40%;
+    background-color: red;
+    font-size: 3vmin;
+}
+
+.con {
+    display: flex;
+    height: 100%;
+}
+
+.menu {
+    overflow: auto;
+    background-color: #1C1E23;
+    color:red;
+}
+
+.content {
+    background-color: darkgrey;
+}
+
+.list{
+    height: 100%;
+}
+
+.item{
+    background-color: #FFFFFF;
+    height: 100%;
+    margin: 20px;
+}
+
+.navH{
+    background-color: red;
+}
+
